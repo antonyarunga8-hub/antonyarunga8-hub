@@ -104,6 +104,4 @@ Python
 
 *"Build things that matter. Ship fast. Keep learning."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=antonyarunga8-hub&color=0e75b6&style=flat-square)
-
 </div>
