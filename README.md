@@ -1,7 +1,7 @@
 <div align="center">
 
 # Antony Arunga
-### Full-Stack Developer · Flutter & React · Aspiring AI Engineer
+### Full-Stack Developer · Flutter & React · AI Engineer
 
 *Building cross-platform apps and AI-powered products from Nairobi, Kenya 🇰🇪*
 
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a self-taught full-stack developer with hands-on experience building real-world products — from multi-vendor e-commerce platforms and fintech apps to AI-powered SaaS tools. I love the intersection of clean code and great UX, and I'm currently levelling up toward **AI Engineering**.
+I'm a full-stack developer with hands-on experience building real-world products — from multi-vendor e-commerce platforms and fintech apps to AI-powered SaaS tools. I love the intersection of clean code and great UX, and I'm currently levelling up toward **AI Engineering**.
 
 - 🔭 Currently building **GrowAI** — an AI-powered SaaS platform for social media creators
 - 📱 Developed a **cross-platform Flutter learning app** with real-time features
@@ -41,7 +41,7 @@ I'm a self-taught full-stack developer with hands-on experience building real-wo
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Python]
 
 **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
