@@ -62,7 +62,7 @@ I'm a full-stack developer with hands-on experience building real-world products
 | Project | Description | Stack |
 |---|---|---|
 | [**GrowAI SaaS**](https://github.com/antonyarunga8-hub/growai-saas) | AI-powered platform for social media creators — content generation, scheduling & analytics | HTML, CSS, JS, AI APIs |
-| [**ApseShopping React**](https://github.com/antonyarunga8-hub/apseshopping-react) | Multi-vendor e-commerce platform with retail, wholesale & services pages | React, Vite, JavaScript |
+|React| Multi-vendor e-commerce platform with retail, wholesale & services pages | React, Vite, JavaScript |
 | [**Mobile Learning App**](https://github.com/antonyarunga8-hub/mobile-learning-app) | Cross-platform mobile app for students with structured learning flows | Flutter, Dart |
 | [**SecurePay Fintech**](https://github.com/antonyarunga8-hub/securepay-fintech) | Fintech startup platform with secure payment flows | HTML, PHP, MySQL |
 | [**StudoCorp**](https://github.com/antonyarunga8-hub/studocorp) | Student travel tracking web application | HTML, CSS, JS |
