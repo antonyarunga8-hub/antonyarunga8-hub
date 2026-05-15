@@ -20,7 +20,7 @@ I'm a full-stack developer with hands-on experience building real-world products
 
 - 🔭 Currently building **GrowAI** — an AI-powered SaaS platform for social media creators
 - 📱 Developed a **cross-platform Flutter learning app** with real-time features
-- 🛒 Built **ApseShopping** — a full multi-vendor e-commerce platform in React & PHP
+- 🛒 Built — a full multi-vendor e-commerce platform in React & PHP
 - 💳 Co-founded **SecurePay** — a fintech startup with M-Pesa & PayPal integrations
 - 🤖 Working as an **AI Image Quality Rater** (iMerit Scholars)
 - 🎯 Goal: Transition into **AI Engineering** and build intelligent, production-grade systems
