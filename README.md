@@ -74,10 +74,6 @@ I'm a full-stack developer with hands-on experience building real-world products
 
 <div align="center">
 
-![Antony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonyarunga8-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonyarunga8-hub&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
