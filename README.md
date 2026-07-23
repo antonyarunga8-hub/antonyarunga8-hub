@@ -88,7 +88,7 @@ I'm a full-stack developer with hands-on experience building real-world products
 ---
 
 ## 💼 Open To
-- 💡 **Mid Full-Stack** roles
+- 💡 **Full-Stack** roles
 - 🤖 **AI Engineering** internships or entry-level positions
 - 🤝 **Open source collaboration** on impactful products
 
