@@ -22,7 +22,6 @@ I'm a full-stack developer with hands-on experience building real-world products
 - 📱 Developed a **cross-platform Flutter learning app** with real-time features
 - 🛒 Built — a full multi-vendor e-commerce platform in React & PHP
 - 💳 Co-founded **SecurePay** — a fintech startup with M-Pesa & PayPal integrations
-- 🤖 Working as an **AI Image Quality Rater** (iMerit Scholars)
 - 🎯 Goal: Transition into **AI Engineering** and build intelligent, production-grade systems
 - 🌍 Based in **Nairobi, Kenya** | Open to remote opportunities worldwide
 
