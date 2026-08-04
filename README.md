@@ -15,8 +15,7 @@
 ---
 
 ## 👨‍💻 About Me
-
-I'm a full-stack developer with hands-on experience building real-world products — from multi-vendor e-commerce platforms and fintech apps to AI-powered SaaS tools. I love the intersection of clean code and great UX, and I'm currently levelling up toward **AI Engineering**.
+I build AI-integrated web products for remote-first companies — solo, async, and without hand-holding. I've shipped a multi-vendor React e-commerce platform, a Flutter mobile app for a learning startup, and GrowAI- an OpenAI-powered SaaS. I founded a Kenyan organization with M-Pesa and paypal integration, co-founded SecurePay, with M-pesa, and paypal integration. I thrive in environments where documentation is thin and deadlines are hard.
 
 - 🔭 Currently building **GrowAI** — an AI-powered SaaS platform for social media creators
 - 📱 Developed a **cross-platform Flutter learning app** with real-time features
